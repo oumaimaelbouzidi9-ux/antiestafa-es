@@ -2,7 +2,7 @@
 
 Proyecto del curso de Desarrollo de IA (Building AI)
 
-## Resumen 
+##Resumen 
 
 AntiEstafa-ES es una idea de IA que analiza mensajes recibidos por SMS, WhatsApp o correo en español, detecta si pueden ser una estafa (falsos bancos, falsos paquetes, premios inventados) y explica por qué resultan sospechosos. Esta IA la pensé sobretodo para personas mayores.
 
